@@ -1,0 +1,53 @@
+html{
+    font-size: 62.5%;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    overflow-x: hidden;
+}
+
+/* The side navigation menu */
+.sidebar {
+  
+    width: 100%;
+    background-color: #2c3d4f;
+    
+    height: 200%;
+    overflow: auto;
+    font-size: 2rem;
+    color: white;
+}
+.marg{
+    margin-right: 200px;
+}
+.rec{
+    width: 100%;
+    margin-top: 15px;
+    height: auto;
+
+    border-radius: 1rem;
+    background-color: #2c3d4f;
+}
+.fontlg{
+    font-size: 2rem;
+}
+
+.brdrad{
+    border-radius: .5rem;
+}
+p{
+    font-size: 1.4rem;
+    color: #9e9e9f;
+}
+.fontsm{
+    font-size: 1.3rem;
+}
+.btnfont{
+    font-size: 1.5rem;
+}
+.placehold{
+    width: 100%;
+    font-size: 15px;
+}
